@@ -8,5 +8,6 @@
     "node-themoviedb": "^0.2.8",
     "qrcode-terminal": "^0.12.0",
     "tomatoes": "^0.0.1"
-  }
+  },
+  "start" : "node index"
 }
